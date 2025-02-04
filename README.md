@@ -38,7 +38,3 @@ myMovies is a complete MERN stack progressive web app (PWA) for everything relat
   ```docker compose up -d --build```
 - Stop the docker container using:
   ```docker compose down```
-
-## License
-
-[![license](https://img.shields.io/github/license/helloukey/mymovies?style=for-the-badge)](LICENSE)
